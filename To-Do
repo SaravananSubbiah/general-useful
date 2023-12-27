@@ -1,0 +1,6 @@
+Auto Changelog commits
+Auto increment version command
+Move the constants to configuration file
+Create error log for each cli command in command list
+Yarn/npm/pnpm/bun package managers
+Schemas at various level
